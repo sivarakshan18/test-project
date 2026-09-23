@@ -18,7 +18,6 @@ export default function CategoryFilter({ categories, active, onChange }: Categor
 
         return (
           <button
-            key={category}
             type="button"
             aria-pressed={isActive}
             onClick={() => onChange(category)}
