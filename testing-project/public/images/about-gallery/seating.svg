@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">Sunny café seating</title><desc id="desc">A comfortable café seating nook beside a sunny window.</desc>
+  <defs><linearGradient id="sun" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff7df"/><stop offset="1" stop-color="#deb98e"/></linearGradient></defs>
+  <rect width="800" height="600" fill="url(#sun)"/><rect y="465" width="800" height="135" fill="#936b4f"/>
+  <rect x="63" y="52" width="344" height="322" rx="9" fill="#d6e6e1" stroke="#4b3427" stroke-width="12"/><path d="M235 58v310M69 210h332" stroke="#4b3427" stroke-width="10"/>
+  <circle cx="145" cy="131" r="54" fill="#ffe3a3"/><path d="M407 374l143 91H324z" fill="#c89f73" opacity=".3"/>
+  <path d="M136 438c0-86 70-116 142-69 61-56 143-23 143 69v100H136z" fill="#6f4e37"/>
+  <rect x="118" y="423" width="321" height="112" rx="45" fill="#795740"/><path d="M134 511v89M420 511v89" stroke="#3d2b21" stroke-width="20"/>
+  <rect x="177" y="381" width="86" height="66" rx="16" fill="#d9b68d"/><rect x="278" y="381" width="99" height="66" rx="16" fill="#e5d3bb"/>
+  <ellipse cx="571" cy="434" rx="112" ry="26" fill="#35251d"/><path d="M571 444v156" stroke="#35251d" stroke-width="22"/>
+  <path d="M535 374h68v58c0 29-68 29-68 0z" fill="#fff8f0"/><path d="M602 390c47-5 48 47 4 48" fill="none" stroke="#fff8f0" stroke-width="13"/>
+  <g transform="translate(680 259)"><path d="M34 91C2 62 4 25 29 0c1 40 19 49 5 91zM35 92c8-47 28-59 57-64-5 45-26 62-57 64z" fill="#47704e"/><path d="M34 58v83" stroke="#385840" stroke-width="6"/><path d="M4 128h64l-9 59H14z" fill="#b55f3c"/></g>
+</svg>

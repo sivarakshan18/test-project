@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">Fresh bakery display</title><desc id="desc">Fresh croissants and loaves arranged on a wooden bakery counter.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#e6c59d"/><stop offset="1" stop-color="#9d704e"/></linearGradient></defs>
+  <rect width="800" height="600" fill="url(#bg)"/><rect x="0" y="405" width="800" height="195" fill="#4b3326"/>
+  <rect x="68" y="90" width="664" height="382" rx="18" fill="#fff8f0" opacity=".36" stroke="#3e2c22" stroke-width="12"/>
+  <path d="M100 280h600M100 420h600" stroke="#5a3e2d" stroke-width="16"/>
+  <g fill="#c68142" stroke="#8a522d" stroke-width="5">
+    <path d="M130 236c30-78 78-76 108-2 35-73 80-70 107 1-61 38-151 39-215 1z"/><path d="M159 226c21-45 45-46 65-1M249 224c20-40 44-39 62 0" fill="none"/>
+    <path d="M420 232c12-81 63-106 117-56 47-49 99-23 107 56-73 35-150 34-224 0z"/><path d="M461 211c20-37 42-44 67-12M548 198c25-29 45-21 59 13" fill="none"/>
+  </g>
+  <g fill="#d99750" stroke="#94572e" stroke-width="5">
+    <path d="M120 385c17-62 68-83 111-42 39-43 91-20 104 42-59 29-153 29-215 0z"/><path d="M432 386c18-62 66-83 111-44 39-40 91-18 104 44-64 28-151 28-215 0z"/>
+  </g>
+  <g fill="none" stroke="#f3c984" stroke-width="9" stroke-linecap="round"><path d="M151 370l29-29M205 382l40-43M267 382l34-30M466 373l28-30M524 383l38-44M584 382l31-29"/></g>
+  <path d="M82 472h638" stroke="#c8a27a" stroke-width="7" opacity=".65"/>
+</svg>
