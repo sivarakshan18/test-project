@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">Barista making coffee</title><desc id="desc">A barista preparing pour-over coffee at a café counter.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#d5b28b"/><stop offset="1" stop-color="#8e6044"/></linearGradient></defs>
+  <rect width="800" height="600" fill="url(#bg)"/><rect y="438" width="800" height="162" fill="#3b2920"/>
+  <circle cx="250" cy="177" r="76" fill="#bd7e5c"/><path d="M175 168c10-107 155-113 160 4-45-35-105-43-160-4z" fill="#2e2118"/>
+  <path d="M125 420c13-130 63-177 126-177s117 52 128 177z" fill="#6f4e37"/>
+  <path d="M197 254h108l31 181H167z" fill="#efe1cd"/><path d="M205 263l46 55 47-55" fill="none" stroke="#c8a27a" stroke-width="8"/>
+  <path d="M343 305c78 5 89 72 147 86" fill="none" stroke="#bd7e5c" stroke-width="34" stroke-linecap="round"/>
+  <path d="M368 266c68 5 79 68 121 79" fill="none" stroke="#bd7e5c" stroke-width="31" stroke-linecap="round"/>
+  <g transform="translate(476 174)"><path d="M0 42h115l-34 88H36z" fill="#394241"/><path d="M41 130h35v62H41z" fill="#c7b49b"/><path d="M20 192h79l-17 70H37z" fill="#fff8f0"/><path d="M7 33c26-41 83-41 109 0" fill="none" stroke="#2e2118" stroke-width="14"/><path d="M57 0v31" stroke="#2e2118" stroke-width="12"/></g>
+  <path d="M535 208c-18-22-6-36 7-52M565 208c-18-24-4-38 8-55" fill="none" stroke="#fff8f0" stroke-width="7" stroke-linecap="round" opacity=".7"/>
+  <ellipse cx="550" cy="445" rx="140" ry="19" fill="#201611" opacity=".45"/>
+</svg>
