@@ -1,1 +1,2 @@
-n="hello world"
+s="Hello"
+print("hello")
